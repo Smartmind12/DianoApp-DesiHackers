@@ -19,3 +19,6 @@ We plan on adding more features, such as implementing Hedera for secure payments
 ## Technologies Used
 Figma, Flutterflow, Flutter
 
+<img width="193" alt="Landpage3" src="https://user-images.githubusercontent.com/91927689/190923783-2e2eaa30-3225-4cb8-955f-20e286157139.png"> <img width="191" alt="Landpage2" src="https://user-images.githubusercontent.com/91927689/190923785-881bf4f2-d7b5-4bfb-87c8-c79dc9656b53.png">
+<img width="187" alt="Landpage" src="https://user-images.githubusercontent.com/91927689/190923788-4259b97b-844b-4fcd-8f9a-507cc57fffc7.png">
+<img width="188" alt="Landpage4" src="https://user-images.githubusercontent.com/91927689/190923789-e48e7455-10c5-4b23-97f7-684ade86846a.png">
