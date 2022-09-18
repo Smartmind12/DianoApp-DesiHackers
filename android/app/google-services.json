@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "48933770346",
+    "project_id": "diano-app",
+    "storage_bucket": "diano-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48933770346:android:d38fc039ef1a3ba2e8a613",
+        "android_client_info": {
+          "package_name": "com.flutterflow.finwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48933770346-4ov9aaffdnbpuu09umgljmgdgtm8t103.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARDmtvvzgQUSdrKJ8o6osysCHOa1uD9P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48933770346-4ov9aaffdnbpuu09umgljmgdgtm8t103.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "48933770346-nafmqhautekijfjbveg5ckopoh2fbtdu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.finwallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
