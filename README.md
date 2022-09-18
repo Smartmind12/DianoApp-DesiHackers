@@ -4,6 +4,10 @@
 
 Link: https://www.youtube.com/watch?v=UD4rKTXpnUE
 
+## Code of App
+
+Check Branch of the repo to find the code of the app
+
 ## What It Does?
 The Diano app is a fully operational ecommerce site where users can purchase products from Vardiano. Once the user arrives to the app, they will have a choice to sign up or sign in. They can also customize their profile as per their preference. If not, they can continue as a guest. Users can browse through products, and purchase them via the app. They can also connect with Vardiano via social media and contact them, if needed. 
 
