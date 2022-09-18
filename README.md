@@ -11,7 +11,7 @@ Check Branch of the repo to find the code of the app
 ## What It Does?
 The Diano app is a fully operational ecommerce site where users can purchase products from Vardiano. Once the user arrives to the app, they will have a choice to sign up or sign in. They can also customize their profile as per their preference. If not, they can continue as a guest. Users can browse through products, and purchase them via the app. They can also connect with Vardiano via social media and contact them, if needed. 
 
-Kindly note: It is an app currently working in dark mode of application and not Lightmode yet.
+Kindly note: It is an app currently working in dark theme mode of application and not Lightmode yet.
 
 ## How We Built It?
 We built this app using quite a few frameworks. We used Figma for UI and flutteflow for front end, mainly building the app. We wanted to use appwrite for the backend but we did not have enough time.
